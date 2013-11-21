@@ -1,5 +1,8 @@
 # Redmine/Chiliproject Java API.
 
+* Fork information:
+1.23 Redmine Java API version forked to be used with Maven format.
+
 * Requires Java 6.
 * Uses Redmine REST API
 * Does not require any plugins installed on Redmine/Chiliproject server.
