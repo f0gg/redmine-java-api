@@ -3,6 +3,9 @@
 #### This fork information:
 1.23 Redmine Java API version forked to be used with Maven format.
 
+**Important:**
+If you need an up-to-date API, use [Original Project](https://github.com/taskadapter/redmine-java-api).
+
 #### Maven usage:
 `mvn clean package` or `mvn clean package -DskipTests` to skip tests.
 
